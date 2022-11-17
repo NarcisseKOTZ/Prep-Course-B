@@ -1,6 +1,6 @@
 Variables: Lugar donde guardo algo llamado valor o dato.
 
-Strings: Tipo de valor o dato que se escribe entre comillas simples o dobles.
+Strings: Tipo de valor o dato (texto) que se escribe entre comillas simples o dobles.
 
 Booleans: Tipo de valor o dato. Solo hay 2, True o False, no hay otros.
 
