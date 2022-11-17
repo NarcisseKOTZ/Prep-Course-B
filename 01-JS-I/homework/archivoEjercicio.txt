@@ -1,0 +1,13 @@
+Variables: Lugar donde guardo algo llamado valor o dato.
+
+Strings: Tipo de valor o dato que se escribe entre comillas simples o dobles.
+
+Booleans: Tipo de valor o dato. Solo hay 2, True o False, no hay otros.
+
+Undefined: Tipo de valor o dato, simplemente indefinido. Valor que no existe. Esta variable es producida por el sistema.
+
+Null: Tipo de valor o dato que está vacío y no tiene nada, la variable que sí existe. Esta variable es producida por el programador.
+
+Operadores: Son símbolos que se utilizan para indicar una acción. Ejemplo, el símbolo + indica la suma de valores mientras que el = puede indicar que ahora 3 es el valor o dato de la variable num (var num = 3)
+
+== vs. ===: == compara simplemente la igualdad de valores o datos mientras que === compara la igualdad de valores o datos y de tipo de valores o datos.
